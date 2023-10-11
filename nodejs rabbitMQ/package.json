@@ -1,0 +1,17 @@
+{
+  "name": "workshop-15",
+  "version": "1.0.0",
+  "description": "Rabbit MQ workshop",
+  "main": "produce.js",
+  "scripts": {
+    "produce": "node produce.js",
+    "consume":"node consume.js",
+    "consume1":"node consume1.js"
+  },
+  "author": "Arohan",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "nodemon": "^2.0.20"
+  }
+}

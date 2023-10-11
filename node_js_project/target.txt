@@ -1,0 +1,2 @@
+hello  
+This data is comming from the target file
